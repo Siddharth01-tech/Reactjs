@@ -2,7 +2,11 @@ import React from 'react'
 
 function App() {
   return (
-    <div>hello</div>
+    <>
+    <div className="bg-black text-white text-3xl p-5 ">
+      github finder
+    </div>
+    </>
   )
 }
 
